@@ -1,9 +1,7 @@
-﻿# AR-VR-Tri-des-d-chets
-
 #♻️ Tri des Déchets – Jeu Unity
 
 ##Description :
-Ce projet Unity est un jeu éducatif simple sur le tri des déchets.
+=>Ce projet Unity est un jeu éducatif simple sur le tri des déchets.
 Le joueur doit faire glisser chaque déchet (plastique, métal, verre, organique, etc.) dans la bonne poubelle.
 Lorsqu’un déchet est déposé dans la poubelle correspondante, il disparaît à l’intérieur.
 
@@ -13,17 +11,19 @@ plastic in Blue, metal in yellow, glass in green , food or organic in red
 Le jeu ne comporte pas de score, il a pour but de sensibiliser au tri sélectif tout en restant simple et intuitif.
 
 ##🧱 Fonctionnalités principales :
-Interaction par glisser-déposer (drag & drop)
-Détection du bon bac selon le type de déchet
-Poubelles semi-transparentes 
-Environnement 3D (jardin, plan, objets)
-Interface simple avec une consigne au démarrage
+- Interaction par glisser-déposer (drag & drop).
+- Détection du bon bac selon le type de déchet.
+- Poubelles semi-transparentes .
+- Environnement 3D (jardin, plan, objets).
+- Interface simple avec une consigne au démarrage.
 
 ##🛠️ Technologies :
-Unity (URP ou Standard)
-C# Scripts pour la logique du tri
-TextMeshPro pour l’interface utilisateur
+- Unity.
+- C# Scripts pour la logique du tri.
+- TextMeshPro pour l’interface utilisateur.
 
 ##Vidéo demonstration:
-https://github.com/user-attachments/assets/324431af-7599-4cd3-8d8b-c7b4c5594074
+https://github.com/user-attachments/assets/3113917c-5d4c-4644-a77b-9fcb1ad9b544
+
+
 
